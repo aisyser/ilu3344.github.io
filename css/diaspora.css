@@ -86,7 +86,7 @@ body.mu .icon-menu {color:#333;background: none;}
 body.mu .icon-menu:before {content:"\e607";}
 body.mu .nav {top:0;}
 body.mu .icon-logo {color:#333;}
-.menu {text-align:center;margin-top:200px; opacity: 0.1;}
+.menu {text-align:center;margin-top:200px;background-color: #000}
 .menu li {font-size:18px;display:inline-block;margin:0 20px 20px 0;}
 .menu a {color:#666;letter-spacing:1px;}
 .menu a:hover {color:#333;}
