@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate">
     <meta name="keywords" content="Mr.Wang,"> 
-    <meta name="description" content="This is my Blog website.,Welcome to here! Nice to meet you!
+    <meta name="description" content="This is my Blog website.,Welcome here! Nice to meet you!
 "> 
     <meta name="author" content="Mr.Wang"> 
     <link rel="alternative" href="atom.xml" title="a cat" type="application/atom+xml"> 
@@ -72,7 +72,7 @@
 
         </div>
         <div class="content markdown">
-            <p>Welcome to here! Nice to meet you!</p>
+            <p>Welcome here! Nice to meet you!</p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">
