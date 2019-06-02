@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="google" content="notranslate">
     <meta name="keywords" content="Mr.Wang,"> 
-    <meta name="description" content="This is my Blog website.,Always believe that something wonderful is about to happen.
+    <meta name="description" content="This is my Blog website.,Always believe that something wonderful is about to happen. 
 "> 
     <meta name="author" content="Mr.Wang"> 
     <link rel="alternative" href="atom.xml" title="a cat" type="application/atom+xml"> 
@@ -72,7 +72,7 @@
 
         </div>
         <div class="content markdown">
-            <p><img src="/img/Believe.jpg" alt="Believe"><br>Always believe that something wonderful is about to happen.</p>
+            <p><img src="/img/Believe.jpg" alt="Believe"><br>Always believe that something wonderful is about to happen. </p>
 
             <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
             <audio id="audio" loop="1" preload="auto" controls="controls" data-autoplay="true">
