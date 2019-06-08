@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[致恋爱的朋友们]]></title>
+    <url>%2Fundefined%2F%E8%87%B4%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC.html</url>
+    <content type="text"><![CDATA[致我心中所有的异性朋友们的一些话&emsp;&emsp;如果你知道我对你很好，请别随意践踏我的情感，因为这个世界上不是每个人都能够保持着善意的心灵。如果你觉得我不足以成为你的朋友，没关系，告诉我，我是个有分寸的人，我不会为了一个不值得成为朋友的人奋不顾身，我也不会后悔断绝这种关系。&emsp;&emsp;如果你恋爱了，同时你把我当作朋友，请告诉我，我会保持分寸，不会轻易伤害任何一个我认为是朋友的人，保持着我的尊严。相反，如果你恋爱了，却不愿意告诉我，同时希望与我保持亲密的关系，不好意思，你已经触碰了我的底线，如果有一天我知晓了，也请你不要后悔我将与你永远保持距离直至陌生。如果你真的是我的朋友，你应该对我的品行有所了解。 祝福恋爱的朋友们&emsp;&emsp;无论你是否还是我的朋友，我都祝福你们能够拥有最美好的恋爱，因为我相信恋爱是一场缘分，恋爱是足以改变人生的一件大事。我希望有情人终成眷属，也希望你们都是对方那个生命中的人。真心祝福我所有恋爱中的朋友们。]]></content>
+      <categories>
+        <category>感情</category>
+      </categories>
+      <tags>
+        <tag>恋爱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Ubuntu之更换镜像源]]></title>
     <url>%2Fundefined%2FUbuntu%E4%B9%8B%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F%E6%BA%90.html</url>
-    <content type="text"><![CDATA[简说这个博客系统用来记录我个人的点点滴滴，包括生活、学习、感情、工作等。这是我第一篇技术笔记的文章，这个系列是我学习Linux时留下的笔记，以后会慢慢增加。后续会开通评论、点赞、收藏、分享等功能，如有笔记错误，欢迎批评指正。 须知： Ubuntu的apt源文件：/etc/apt/sources.list cp的使用：cp sourceFile backupFile mv的使用: mv sourceFile backupFile cp是复制，mv是移动，源文件和备份文件不可以重名 步骤 备份官方源：cp /etc/apt/sources.list /etc/sources.list.bak或者mv /etc/apt/sources.list /etc/sources.list.bak 找Ubuntu源清华源，找对应的版本源，例如Ubuntu16.04 TSL，复制源阿里源，找到Ubuntu，点击右边对应的帮助按钮，复制源… 打开sources.list文件 123456#第一种可视化打开，针对有图形界面用户，并且已安装geditgedit /etc/apt/sources.list#第二种vim打开vim /etc/apt/sources.list#第三种（不推荐）vi /etc/apt/sources.list 将sources.list内容清空，将新的源复制进去、保存、退出。 你也可以多备份几个源，例如如下/etc/apt/sources.list.tsinghua （清华源的备份）/etc/apt/sources.list.aliyun （阿里源的备份） 随用随切换cp /etc/apt/sources.list.aliyun /etc/sources.list或者mv /etc/apt/sources.list.aliyun /etc/sources.list 更新，体验一波速度之旅 1234#更新apt包sudo apt-get update#升级本地apt包sudo apt-get upgrade 总结Ubuntu官方源服务器是设置在国外的，下载速度一般，像阿里源、网易源等都是和Ubuntu有合作，把源设置在国内服务器上面，甚至很多都帮你解析好了，下载速度杠杠的，赶紧动手尝试一下吧。]]></content>
+    <content type="text"><![CDATA[简说这个博客系统用来记录我个人的点点滴滴，包括生活、学习、感情、工作等。这是我第一篇技术笔记的文章，这个系列是我学习Linux时留下的笔记，以后会慢慢增加。后续会开通评论、点赞、收藏、分享等功能，如有笔记错误，欢迎批评指正。 须知 Ubuntu的apt源文件：/etc/apt/sources.list cp的使用：cp sourceFile backupFile mv的使用: mv sourceFile backupFile cp是复制，mv是移动，源文件和备份文件不可以重名 步骤 备份官方源：cp /etc/apt/sources.list /etc/sources.list.bak或者mv /etc/apt/sources.list /etc/sources.list.bak 找Ubuntu源清华源，找对应的版本源，例如Ubuntu16.04 TSL，复制源阿里源，找到Ubuntu，点击右边对应的帮助按钮，复制源… 打开sources.list文件 123456#第一种可视化打开，针对有图形界面用户，并且已安装geditgedit /etc/apt/sources.list#第二种vim打开vim /etc/apt/sources.list#第三种（不推荐）vi /etc/apt/sources.list 将sources.list内容清空，将新的源复制进去、保存、退出。 你也可以多备份几个源，例如如下/etc/apt/sources.list.tsinghua （清华源的备份）/etc/apt/sources.list.aliyun （阿里源的备份） 随用随切换cp /etc/apt/sources.list.aliyun /etc/sources.list或者mv /etc/apt/sources.list.aliyun /etc/sources.list 更新，体验一波速度之旅 1234#更新apt包sudo apt-get update#升级本地apt包sudo apt-get upgrade 总结Ubuntu官方源服务器是设置在国外的，下载速度一般，像阿里源、网易源等都是和Ubuntu有合作，把源设置在国内服务器上面，甚至很多都帮你解析好了，下载速度杠杠的，赶紧动手尝试一下吧。]]></content>
       <categories>
         <category>Linux系统</category>
       </categories>
@@ -14,7 +25,7 @@
   <entry>
     <title><![CDATA[互联网+初级阶段]]></title>
     <url>%2Fundefined%2F%E4%BA%92%E8%81%94%E7%BD%91-%E5%88%9D%E7%BA%A7%E9%98%B6%E6%AE%B5.html</url>
-    <content type="text"><![CDATA[准备起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。 分工第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。 总结无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。 每日一句Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.——Mark Twain var ap = new APlayer({ element: document.getElementById("aplayer-tfzurTsO"), narrow: false, autoplay: false, showlrc: false, music: { title: "Sugar", author: "Maroon", url: "http://music.163.com/song/media/outer/url?id=29019227.mp3", pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[准备起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。 分工第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。 总结无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。 每日一句Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.——Mark Twain var ap = new APlayer({ element: document.getElementById("aplayer-pkZHHwad"), narrow: false, autoplay: false, showlrc: false, music: { title: "Sugar", author: "Maroon", url: "http://music.163.com/song/media/outer/url?id=29019227.mp3", pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <tags>
         <tag>Diary</tag>
       </tags>
