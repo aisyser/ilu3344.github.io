@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://ilu3344.top/"/>
-  <updated>2019-06-08T12:11:18.611Z</updated>
-  <id>http://ilu3344.top/</id>
+  <link href="https://ilu3344.top/"/>
+  <updated>2019-06-09T16:16:36.419Z</updated>
+  <id>https://ilu3344.top/</id>
   
   <author>
     <name>候鸟</name>
@@ -17,9 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>机器学习开场白</title>
+    <link href="https://ilu3344.top/undefined/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BC%80%E5%9C%BA%E7%99%BD.html"/>
+    <id>https://ilu3344.top/undefined/机器学习开场白.html</id>
+    <published>2019-06-09T14:41:50.000Z</published>
+    <updated>2019-06-09T16:16:36.419Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/undefined/机器学习开场白/note.jpg" alt="相信自己"></p><a id="more"></a><p>开始我的大数据之路，为自己增长一点实力吧，十年之约已过三，待我归来日，愿我们都无怨无悔。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/undefined/机器学习开场白/note.jpg&quot; alt=&quot;相信自己&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Python" scheme="https://ilu3344.top/categories/Python/"/>
+    
+    
+      <category term="机器学习" scheme="https://ilu3344.top/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>致恋爱的朋友们</title>
-    <link href="http://ilu3344.top/undefined/%E8%87%B4%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC.html"/>
-    <id>http://ilu3344.top/undefined/致恋爱的朋友们.html</id>
+    <link href="https://ilu3344.top/undefined/%E8%87%B4%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC.html"/>
+    <id>https://ilu3344.top/undefined/致恋爱的朋友们.html</id>
     <published>2019-06-08T11:18:27.000Z</published>
     <updated>2019-06-08T12:11:18.611Z</updated>
     
@@ -31,17 +53,17 @@
     
     </summary>
     
-      <category term="感情" scheme="http://ilu3344.top/categories/%E6%84%9F%E6%83%85/"/>
+      <category term="感情" scheme="https://ilu3344.top/categories/%E6%84%9F%E6%83%85/"/>
     
     
-      <category term="恋爱" scheme="http://ilu3344.top/tags/%E6%81%8B%E7%88%B1/"/>
+      <category term="恋爱" scheme="https://ilu3344.top/tags/%E6%81%8B%E7%88%B1/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu之更换镜像源</title>
-    <link href="http://ilu3344.top/undefined/Ubuntu%E4%B9%8B%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F%E6%BA%90.html"/>
-    <id>http://ilu3344.top/undefined/Ubuntu之更换镜像源.html</id>
+    <link href="https://ilu3344.top/undefined/Ubuntu%E4%B9%8B%E6%9B%B4%E6%8D%A2%E9%95%9C%E5%83%8F%E6%BA%90.html"/>
+    <id>https://ilu3344.top/undefined/Ubuntu之更换镜像源.html</id>
     <published>2019-06-08T02:26:09.000Z</published>
     <updated>2019-06-08T09:48:17.554Z</updated>
     
@@ -53,21 +75,21 @@
     
     </summary>
     
-      <category term="Linux系统" scheme="http://ilu3344.top/categories/Linux%E7%B3%BB%E7%BB%9F/"/>
+      <category term="Linux系统" scheme="https://ilu3344.top/categories/Linux%E7%B3%BB%E7%BB%9F/"/>
     
     
-      <category term="Ubuntu" scheme="http://ilu3344.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="https://ilu3344.top/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>互联网+初级阶段</title>
-    <link href="http://ilu3344.top/undefined/%E4%BA%92%E8%81%94%E7%BD%91-%E5%88%9D%E7%BA%A7%E9%98%B6%E6%AE%B5.html"/>
-    <id>http://ilu3344.top/undefined/互联网-初级阶段.html</id>
+    <link href="https://ilu3344.top/undefined/%E4%BA%92%E8%81%94%E7%BD%91-%E5%88%9D%E7%BA%A7%E9%98%B6%E6%AE%B5.html"/>
+    <id>https://ilu3344.top/undefined/互联网-初级阶段.html</id>
     <published>2019-06-05T15:05:04.000Z</published>
     <updated>2019-06-06T11:07:59.390Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/undefined/互联网-初级阶段/wolf_predator_howl.jpg" alt="wolf_predator_howl"></p><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。</p><a id="more"></a><h3 id="分工"><a href="#分工" class="headerlink" title="分工"></a>分工</h3><p>第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。</p><h3 id="每日一句"><a href="#每日一句" class="headerlink" title="每日一句"></a>每日一句</h3><blockquote><p>Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.<br>——<em>Mark Twain</em></p></blockquote>        <div id="aplayer-pkZHHwad" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-pkZHHwad"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Sugar",              author: "Maroon",              url: "http://music.163.com/song/media/outer/url?id=29019227.mp3",              pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><img src="/undefined/互联网-初级阶段/wolf_predator_howl.jpg" alt="wolf_predator_howl"></p><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。</p><a id="more"></a><h3 id="分工"><a href="#分工" class="headerlink" title="分工"></a>分工</h3><p>第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。</p><h3 id="每日一句"><a href="#每日一句" class="headerlink" title="每日一句"></a>每日一句</h3><blockquote><p>Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.<br>——<em>Mark Twain</em></p></blockquote>        <div id="aplayer-hNlxpWhP" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-hNlxpWhP"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "Sugar",              author: "Maroon",              url: "http://music.163.com/song/media/outer/url?id=29019227.mp3",              pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
     
     <summary type="html">
     
@@ -77,14 +99,14 @@
     </summary>
     
     
-      <category term="Diary" scheme="http://ilu3344.top/tags/Diary/"/>
+      <category term="Diary" scheme="https://ilu3344.top/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>忙碌的心</title>
-    <link href="http://ilu3344.top/undefined/%E5%BF%99%E7%A2%8C%E7%9A%84%E5%BF%83.html"/>
-    <id>http://ilu3344.top/undefined/忙碌的心.html</id>
+    <link href="https://ilu3344.top/undefined/%E5%BF%99%E7%A2%8C%E7%9A%84%E5%BF%83.html"/>
+    <id>https://ilu3344.top/undefined/忙碌的心.html</id>
     <published>2019-06-04T14:57:45.000Z</published>
     <updated>2019-06-04T15:48:40.520Z</updated>
     
@@ -98,14 +120,14 @@
     </summary>
     
     
-      <category term="Diary" scheme="http://ilu3344.top/tags/Diary/"/>
+      <category term="Diary" scheme="https://ilu3344.top/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>新的伊始</title>
-    <link href="http://ilu3344.top/undefined/%E6%96%B0%E7%9A%84%E4%BC%8A%E5%A7%8B.html"/>
-    <id>http://ilu3344.top/undefined/新的伊始.html</id>
+    <link href="https://ilu3344.top/undefined/%E6%96%B0%E7%9A%84%E4%BC%8A%E5%A7%8B.html"/>
+    <id>https://ilu3344.top/undefined/新的伊始.html</id>
     <published>2019-06-03T08:19:25.000Z</published>
     <updated>2019-06-04T15:49:41.028Z</updated>
     
@@ -118,14 +140,14 @@
     </summary>
     
     
-      <category term="Diary" scheme="http://ilu3344.top/tags/Diary/"/>
+      <category term="Diary" scheme="https://ilu3344.top/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>Hi, my friend!</title>
-    <link href="http://ilu3344.top/undefined/Hi-my-friend.html"/>
-    <id>http://ilu3344.top/undefined/Hi-my-friend.html</id>
+    <link href="https://ilu3344.top/undefined/Hi-my-friend.html"/>
+    <id>https://ilu3344.top/undefined/Hi-my-friend.html</id>
     <published>2019-06-02T12:14:40.000Z</published>
     <updated>2019-06-03T08:20:42.900Z</updated>
     
@@ -141,14 +163,14 @@
     </summary>
     
     
-      <category term="Diary" scheme="http://ilu3344.top/tags/Diary/"/>
+      <category term="Diary" scheme="https://ilu3344.top/tags/Diary/"/>
     
   </entry>
   
   <entry>
     <title>Good Morning, Priness!</title>
-    <link href="http://ilu3344.top/undefined/hello.html"/>
-    <id>http://ilu3344.top/undefined/hello.html</id>
+    <link href="https://ilu3344.top/undefined/hello.html"/>
+    <id>https://ilu3344.top/undefined/hello.html</id>
     <published>2019-06-01T15:07:58.953Z</published>
     <updated>2019-06-07T06:03:50.270Z</updated>
     

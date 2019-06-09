@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[机器学习开场白]]></title>
+    <url>%2Fundefined%2F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%BC%80%E5%9C%BA%E7%99%BD.html</url>
+    <content type="text"><![CDATA[开始我的大数据之路，为自己增长一点实力吧，十年之约已过三，待我归来日，愿我们都无怨无悔。]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>机器学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[致恋爱的朋友们]]></title>
     <url>%2Fundefined%2F%E8%87%B4%E6%81%8B%E7%88%B1%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC.html</url>
     <content type="text"><![CDATA[致我所有的异性朋友们的一些话&emsp;&emsp;如果你知道我对你很好，请别随意践踏我的情感，因为这个世界上不是每个人都能够保持着善意的心灵。如果你觉得我不足以成为你的朋友，没关系，告诉我，我是个有分寸的人，我不会为了一个不值得成为朋友的人奋不顾身，我也不会后悔断绝这种关系。&emsp;&emsp;如果你恋爱了，同时你把我当作朋友，请告诉我，我会保持分寸，不会轻易伤害任何一个我认为是朋友的人，保持着我的尊严。相反，如果你恋爱了，却不愿意告诉我，同时希望与我保持亲密的关系，不好意思，你已经触碰了我的底线，如果有一天我知晓了，也请你不要后悔我将与你永远保持距离直至陌生。如果你真的是我的朋友，你应该对我的品行有所了解。 祝福恋爱的朋友们&emsp;&emsp;无论你是否还是我的朋友，我都祝福你们能够拥有最美好的恋爱，因为我相信恋爱是一场缘分，恋爱是足以改变人生的一件大事。我希望有情人终成眷属，也希望你们都是对方那个生命中的人。真心祝福我所有恋爱中的朋友们。]]></content>
@@ -25,7 +36,7 @@
   <entry>
     <title><![CDATA[互联网+初级阶段]]></title>
     <url>%2Fundefined%2F%E4%BA%92%E8%81%94%E7%BD%91-%E5%88%9D%E7%BA%A7%E9%98%B6%E6%AE%B5.html</url>
-    <content type="text"><![CDATA[准备起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。 分工第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。 总结无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。 每日一句Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.——Mark Twain var ap = new APlayer({ element: document.getElementById("aplayer-pkZHHwad"), narrow: false, autoplay: false, showlrc: false, music: { title: "Sugar", author: "Maroon", url: "http://music.163.com/song/media/outer/url?id=29019227.mp3", pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[准备起初只是一个念头，于是从老师那得到项目许可，然后召集一批来自各个学院和专业的同学，有些陌生有些熟悉，和这群同伴合作真地让我感受到团队专属的魅力。 分工第一次作为队长，很没经验，还好成员们各有所长，擅长财务分析、文案编稿、项目分析的都有，我就负责对接老师和同学，征求意见下达任务。我真实的感受到了分工合理是多么的重要，院赛汇报没能合理分配工作导致的教训需要深刻检讨，对于校赛一定不能这么马虎。 总结无论这个项目到底能走多远，我觉得能认识这些可爱的人才是我最大的收获，真心希望我们能一直坚持走下去，只要能看着他（她）们开心的笑容，我就会感到无比的自豪。 每日一句Twenty years from now you will be more disappointed by the things that you didn’t do than by the things you did.——Mark Twain var ap = new APlayer({ element: document.getElementById("aplayer-hNlxpWhP"), narrow: false, autoplay: false, showlrc: false, music: { title: "Sugar", author: "Maroon", url: "http://music.163.com/song/media/outer/url?id=29019227.mp3", pic: "/undefined/互联网-初级阶段/Maroon-5-Sugar.jpg", lrc: "" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <tags>
         <tag>Diary</tag>
       </tags>
